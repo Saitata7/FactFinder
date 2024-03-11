@@ -5,18 +5,8 @@ Website Link: - https://candid-syrniki-9cb004.netlify.app
 **Fact-Finder website Template - README**
 
 **How to Open:**
-1. Clone the repository from GitHub using the following command:
-   ```
-   git clone https://github.com/Saitata7/business-web-site.git
-   ```
-   Alternatively, download the ZIP file and extract it to your desired location.
 
-2. Navigate to the project directory:
-   ```
-   cd business-web-site
-   ```
-
-3. Npm Installation
+ Npm Installation
    ```
    npm install
    ```
