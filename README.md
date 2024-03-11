@@ -1,8 +1,8 @@
-# Business-web-site
+# Fact-Finder website
 Buiness-website template
 Website Link: - https://candid-syrniki-9cb004.netlify.app
 
-**Business Template Website - README**
+**Fact-Finder website Template - README**
 
 **How to Open:**
 1. Clone the repository from GitHub using the following command:
