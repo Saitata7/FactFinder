@@ -37,14 +37,18 @@ export const Navbar = ({ toggle }) => {
             <FaBars />
           </MobileIcon>
           <NavMenu>
-            <NavItem>
-              <NavLinks to="about">About</NavLinks>
+          <NavItem>
+            <NavLinks to="signin">Home</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="discover">Product</NavLinks>
+            <NavLinks to="services">Verify News</NavLinks>
             </NavItem>
             <NavItem>
-              <NavLinks to="services">Services</NavLinks>
+              <NavLinks to="discover">Search History</NavLinks>
+            </NavItem>
+            <NavItem>
+              
+              <NavLinks to="about">About us</NavLinks>
             </NavItem>
             <NavItem>
               <NavLinks to="signup">Contact</NavLinks>
